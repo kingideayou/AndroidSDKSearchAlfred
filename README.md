@@ -7,10 +7,11 @@ A Alfred extension that adds an 'asdk' command and view source links for the And
 - input `asdk` and `search keyword`
 
 ### Preview
+![](http://ww1.sinaimg.cn/mw690/6db4aff6gy1fmhge5c8rgj20u00oqacw.jpg)   
 
-![](http://ww1.sinaimg.cn/large/6db4aff6gy1fmhg5euqn0j20u00oqacw.jpg)  
+  
+![](http://ww1.sinaimg.cn/mw690/6db4aff6gy1fmhgfj6anbj20u20owq7b.jpg)  
 
-![](http://ww1.sinaimg.cn/large/6db4aff6gy1fmhg5oe7onj20u20owq7b.jpg)
 
-### Thanks to  
+### Thanks to
 [romannurik/AndroidSDKSearchExtension](https://github.com/romannurik/AndroidSDKSearchExtension)
